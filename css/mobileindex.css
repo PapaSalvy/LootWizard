@@ -1,5 +1,3 @@
-@media only screen and (max-width: 768px) {
-
   .top-barshadow {
     display: none;
   }
@@ -24,9 +22,12 @@
     margin: 0;
   }
 
+  .navbar {
+    display: none;
+  }
+
 
 /* TEMPORARY */
   .banner, .how-to-win, .gsb-container, .monthly, .bottom {
     display: none;
   }
-}

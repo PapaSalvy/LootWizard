@@ -1,3 +1,4 @@
+/* HEADER */
 .top-barshadow {
   display: none;
 }
@@ -16,18 +17,65 @@
   margin-left: 20px;
 }
 
-.top-bar p,
-.top-bar span {
+.top-bar p {
   font-size: 30px;
   margin: 0;
+}
+
+.top-bar span {
+  font-size: 34px;
 }
 
 .navbar {
   display: none;
 }
 
+/* BANNER */
+.banner-image {
+  display: none;
+}
+
+.banner-text {
+  height: 200px;
+
+  justify-content: center;
+  width: 100%;
+}
+
+#p1 {
+  font-size: 40px;
+}
+
+#p2 {
+  font-size: 24px;
+}
+
+#p3 {
+  font-size: 18px;
+}
+
+/* HOW TO WIN */
+.how-to-win {
+  height: 200px;
+}
+
+.htw-text {
+  margin: 15px;
+}
+
+.htw-text h1 {
+  font-size: 40px;
+}
+
+.htw-text p {
+  font-size: 15px;
+}
+
+.htw-text span {
+  font-size: 13px;
+}
 
 /* TEMPORARY */
-.banner, .how-to-win, .gsb-container, .monthly, .bottom {
+.gsb-container, .monthly, .bottom {
   display: none;
 }

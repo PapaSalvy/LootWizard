@@ -1,33 +1,35 @@
-  .top-barshadow {
-    display: none;
-  }
+  @media only screen and (max-width: 767px) and (orientation: portrait) {
+    .top-barshadow {
+      display: none;
+    }
 
-  .logo img {
-    height: 80px;
-    margin-top: 20px;
-  }
+    .logo img {
+      height: 80px;
+      margin-top: 20px;
+    }
 
-  .top-bar {
-    height: 60px;
-  }
+    .top-bar {
+      height: 60px;
+    }
 
-  .lw-text-container {
-    width: 100%;
-    margin-left: 20px;
-  }
+    .lw-text-container {
+      width: 100%;
+      margin-left: 20px;
+    }
 
-  .top-bar p,
-  .top-bar span {
-    font-size: 30px;
-    margin: 0;
-  }
+    .top-bar p,
+    .top-bar span {
+      font-size: 30px;
+      margin: 0;
+    }
 
-  .navbar {
-    display: none;
-  }
+    .navbar {
+      display: none;
+    }
 
 
-/* TEMPORARY */
-  .banner, .how-to-win, .gsb-container, .monthly, .bottom {
-    display: none;
+  /* TEMPORARY */
+    .banner, .how-to-win, .gsb-container, .monthly, .bottom {
+      display: none;
+    }
   }

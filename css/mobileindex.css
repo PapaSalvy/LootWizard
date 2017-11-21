@@ -4,8 +4,8 @@
 }
 
 .logo img {
-  height: 80px;
-  margin-top: 20px;
+  height: 100px;
+  margin-top: 40px;
 }
 
 .top-bar {
@@ -14,16 +14,15 @@
 
 .lw-text-container {
   width: 100%;
-  margin-left: 20px;
 }
 
 .top-bar p {
-  font-size: 30px;
+  font-size: 42px;
   margin: 0;
 }
 
 .top-bar span {
-  font-size: 34px;
+  font-size: 46px;
 }
 
 .navbar {
@@ -35,10 +34,11 @@
   align-items: center;
   justify-content: center;
   background-color: #0093CC;
+  height: 50px;
 }
 
 .navbar-mobile img {
-  height: 40px;
+  height: 30px;
   width: auto;
   margin: 20px;
 }

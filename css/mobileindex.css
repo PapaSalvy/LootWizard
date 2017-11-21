@@ -17,7 +17,7 @@
 }
 
 .top-bar p {
-  font-size: 38px;
+  font-size: 36px;
   margin: 0;
 }
 
@@ -44,7 +44,7 @@
 }
 
 .pagelinks-mobile {
-  margin-left: 260px;
+  margin-left: 75px;
 }
 
 /* BANNER */
@@ -99,7 +99,41 @@
   font-size: 17px;
 }
 
-/* TEMPORARY */
-.gsb-container, .monthly, .bottom {
-  display: none;
+/* GET STARTED BUTTON */
+.gsb-container a {
+  width: 80%;
+}
+
+/* MONTHLY GIVEAWAY */
+.monthly {
+  display: block;
+  height: 570px;
+}
+
+.monthly-picture img {
+  height: 200px;
+  margin-left: 0;
+}
+
+.mt-text-header {
+  font-size: 36px;
+  padding: 20px 0;
+}
+
+.mt-text {
+  font-size: 22px;
+}
+
+.mtsu-button {
+  padding: 20px 0;
+}
+
+.mtsu-button a {
+  width: 60%;
+}
+
+/* BOTTOM */
+
+.footer-textlinks a {
+  font-size: 16px;
 }

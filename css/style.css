@@ -188,6 +188,18 @@ justify-content: space-between;
   background-color: #5f7c8d;
 }
 
+.monthly-picture img {
+  height:375px;
+  width: auto;
+  margin-left: -100px;
+}
+
+.monthly-picture {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .mt-text-header {
   text-align: center;
   color: white;
@@ -265,4 +277,16 @@ justify-content: space-between;
   height: 40px;
   width: auto;
   padding: 0 20px;
+}
+
+/* SMALL MEDIA QUERIES */
+
+@media only screen and (max-width: 480px;) {
+  .top-bar p {
+    font-size: 36px;
+  }
+
+  .top-bar span {
+    font-size: 40px;
+  }
 }

@@ -104,6 +104,11 @@
   width: 80%;
 }
 
+.gsb-container a:hover{
+  background-color: #08FF50;
+}
+
+
 /* MONTHLY GIVEAWAY */
 .monthly {
   display: block;
@@ -133,7 +138,7 @@
 }
 
 .mtsu-button a:hover {
-  display: none;
+  background-color: #08FF50;
 }
 
 /* BOTTOM */

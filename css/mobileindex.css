@@ -50,26 +50,32 @@
 
 .banner-text {
   height: 200px;
-  color: white;
   justify-content: center;
   width: 100%;
 }
 
 #p1 {
   font-size: 40px;
+  color: white;
 }
 
 #p2 {
   font-size: 24px;
+  color: white;
 }
 
 #p3 {
   font-size: 18px;
+  color: white;
 }
 
 /* HOW TO WIN */
 .how-to-win {
-  height: 200px;
+  height: 275px;
+  background-image: url('../rs/moneypat3mobile.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .htw-text {
@@ -77,15 +83,15 @@
 }
 
 .htw-text h1 {
-  font-size: 40px;
+  font-size: 48px;
 }
 
 .htw-text p {
-  font-size: 15px;
+  font-size: 20px;
 }
 
 .htw-text span {
-  font-size: 13px;
+  font-size: 17px;
 }
 
 /* TEMPORARY */

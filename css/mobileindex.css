@@ -30,6 +30,19 @@
   display: none;
 }
 
+.navbar-mobile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0093CC;
+}
+
+.navbar-mobile img {
+  height: 40px;
+  width: auto;
+  margin: 20px;
+}
+
 /* BANNER */
 .banner-image {
   display: none;

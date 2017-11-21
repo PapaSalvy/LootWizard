@@ -17,12 +17,12 @@
 }
 
 .top-bar p {
-  font-size: 42px;
+  font-size: 38px;
   margin: 0;
 }
 
 .top-bar span {
-  font-size: 46px;
+  font-size: 40px;
 }
 
 .navbar {
@@ -40,7 +40,11 @@
 .navbar-mobile img {
   height: 30px;
   width: auto;
-  margin: 20px;
+  margin: 8px;
+}
+
+.pagelinks-mobile {
+  margin-left: 260px;
 }
 
 /* BANNER */
@@ -52,6 +56,10 @@
   height: 200px;
   justify-content: center;
   width: 100%;
+}
+
+#p1, #p2, #p3 {
+  margin-left: 10px;
 }
 
 #p1 {

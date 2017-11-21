@@ -1,0 +1,32 @@
+@media only screen and (max-width: 767px) {
+
+  .top-barshadow {
+    display: none;
+  }
+
+  .logo img {
+    height: 80px;
+    margin-top: 20px;
+  }
+
+  .top-bar {
+    height: 60px;
+  }
+
+  .lw-text-container {
+    width: 100%;
+    margin-left: 20px;
+  }
+
+  .top-bar p,
+  .top-bar span {
+    font-size: 30px;
+    margin: 0;
+  }
+
+
+/* TEMPORARY */
+  .banner, .how-to-win, .gsb-container, .monthly, .bottom {
+    display: none;
+  }
+}

@@ -132,6 +132,10 @@
   width: 60%;
 }
 
+.mtsu-button a:hover {
+  display: none;
+}
+
 /* BOTTOM */
 
 .footer-textlinks a {

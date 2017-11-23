@@ -1,0 +1,44 @@
+/* HEADER */
+
+.top-barshadow {
+  display: none;
+}
+
+.logo img {
+  height: 90px;
+  margin-top: 40px;
+}
+
+.top-bar {
+  height: 60px;
+  background-color: #0093CC;
+}
+
+.lw-text-container {
+  width: 100%;
+}
+
+.top-bar p {
+  font-size: 33px;
+  margin: 0;
+  margin-right: 75px;
+}
+
+.navbar {
+  display: none;
+}
+
+.navbar-mobile a {
+    font-family: "Source Sans Pro";
+    color: white;
+    font-size: 28px;
+    text-decoration: none;
+}
+
+.navbar-mobile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #00B8FF;
+  height: 50px;
+}

@@ -4,12 +4,13 @@
 }
 
 .logo img {
-  height: 100px;
+  height: 90px;
   margin-top: 40px;
 }
 
 .top-bar {
   height: 60px;
+  background-color: #0093CC;
 }
 
 .lw-text-container {
@@ -17,12 +18,12 @@
 }
 
 .top-bar p {
-  font-size: 36px;
+  font-size: 34px;
   margin: 0;
 }
 
 .top-bar span {
-  font-size: 40px;
+  font-size: 36px;
 }
 
 .navbar {
@@ -33,7 +34,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #0093CC;
+  background-color: #00B8FF;
   height: 50px;
 }
 
@@ -144,5 +145,5 @@
 /* BOTTOM */
 
 .footer-textlinks a {
-  font-size: 16px;
+  font-size: 18px;
 }

@@ -22,7 +22,7 @@ justify-content: space-between;
 
 .lw-text-container {
   width: 500px;
-  margin-right: 650px;
+  margin-right: 620px;
 }
 
 .top-bar p {
@@ -40,11 +40,10 @@ justify-content: space-between;
 /* NAVBAR */
 
 .navbar {
-  width: 25%;
-  padding-right: 25px;
+  min-width: 25%;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .navbar a{

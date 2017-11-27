@@ -53,7 +53,7 @@
 }
 
 .contact-container {
-  margin-top: 75px;
+  margin-top: 25px;
   font-size: 32px;
 }
 
@@ -64,12 +64,22 @@
 /* FOOTER */
 .bottom {
   position: static;
+  flex-direction: column;
+  height: 300px;
 }
 
 .footer-textlinks a {
   font-size: 18px;
 }
 
+.footer-textlinks {
+  height: 150px;
+}
+
 .footer-pagelinks img {
   padding: 0 15px;
+}
+
+.footer-pagelinks{
+  padding: 20px;
 }

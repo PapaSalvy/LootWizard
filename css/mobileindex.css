@@ -16,6 +16,9 @@
 .lw-text-container {
   width: 100%;
   margin: 0;
+  position: absolute;
+  text-align: center;
+  margin-left: 45px;
 }
 
 .top-bar p {

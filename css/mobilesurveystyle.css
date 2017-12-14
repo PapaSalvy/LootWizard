@@ -16,12 +16,19 @@
 
 .lw-text-container {
   width: 100%;
+  margin: 0;
+  position: absolute;
+  text-align: center;
+  margin-left: 45px;
 }
 
 .top-bar p {
-  font-size: 33px;
+  font-size: 32px;
   margin: 0;
-  margin-right: 125px;
+}
+
+.top-bar span {
+  font-size: 36px;
 }
 
 .navbar {
